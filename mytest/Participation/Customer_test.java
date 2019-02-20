@@ -7,10 +7,6 @@ import java.util.Set;
 
 import static org.junit.Assert.*;
 
-/**
- * This is just a simple template for a JUnit test-class for testing
- * the class Customer.
- */
 public class Customer_test {
 
     // Implementation of Discount that allows for the discount to be greater
