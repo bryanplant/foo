@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="af3ef064-6d26-4733-b3f7-09bcdee7ceac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mytest/Participation/Discount_5pack_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/mytest/Participation/Discount_5pack_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Participation/Discount_5pack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Participation/Discount_5pack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodata" beforeDir="false" afterPath="$PROJECT_DIR$/foodata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytest/Participation/ApplicationLogic_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/mytest/Participation/ApplicationLogic_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytest/Participation/Discount_1000_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/mytest/Participation/Discount_1000_test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,23 +23,83 @@
     <SUITE FILE_PATH="coverage/foo$Customer_test_testGetParticipationValue.ic" NAME="Customer_test.testGetParticipationValue Coverage Results" MODIFIED="1550628671921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Participation.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/foo$ApplicationLogic_test_testRemoveService.ic" NAME="ApplicationLogic_test.testRemoveService Coverage Results" MODIFIED="1551476026090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Participation.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/foo$Customer_test.ic" NAME="Customer_test Coverage Results" MODIFIED="1550682384476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Participation.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/foo$All_in_foo.ic" NAME="All in foo Coverage Results" MODIFIED="1550626297532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/foo$All_in_foo.ic" NAME="All in foo Coverage Results" MODIFIED="1551479217744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="119" />
+    <option name="myElementSize" value="115" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mytest/Participation/Discount_5pack_test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+            <state relative-caret-position="187">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mytest/Participation/Discount_1000_test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mytest/Participation/Customer_test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Participation/ApplicationLogic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="450" column="42" selection-start-line="450" selection-start-column="33" selection-end-line="450" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mytest/Participation/ApplicationLogic_test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="824">
+              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Participation/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-214">
+              <caret line="95" column="51" selection-start-line="95" selection-start-column="51" selection-end-line="95" selection-end-column="51" />
+              <folding>
+                <element signature="e#2294#2315#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,24 +109,10 @@
         <entry file="file://$PROJECT_DIR$/src/Participation/Discount_5pack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="277">
-              <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+              <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
               <folding>
                 <element signature="e#628#629#0" expanded="true" />
                 <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#1343#1344#0" expanded="true" />
-                <element signature="e#1368#1369#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mytest/Participation/Discount_1000_test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,7 +121,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Participation/Discount_1000.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="-182">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
@@ -111,6 +158,9 @@
     <findStrings>
       <find>discountvalue</find>
       <find>getparticipationvalu</find>
+      <find>resolve</find>
+      <find>getCust</find>
+      <find>resolve()</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -121,17 +171,18 @@
       <list>
         <option value="$PROJECT_DIR$/src/Participation/Persistence.java" />
         <option value="$PROJECT_DIR$/mytest/Participation/Customer_test.java" />
-        <option value="$PROJECT_DIR$/mytest/Participation/Discount_1000_test.java" />
         <option value="$PROJECT_DIR$/src/Participation/Discount_5pack.java" />
         <option value="$PROJECT_DIR$/mytest/Participation/Discount_5pack_test.java" />
+        <option value="$PROJECT_DIR$/mytest/Participation/Discount_1000_test.java" />
+        <option value="$PROJECT_DIR$/mytest/Participation/ApplicationLogic_test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="517" />
+    <option name="x" value="516" />
     <option name="y" value="-20" />
     <option name="width" value="975" />
-    <option name="height" value="1048" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -204,10 +255,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550703365369" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551479374583" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -225,7 +277,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Discount_5pack_test.testCalcDiscount">
+  <component name="RunManager" selected="JUnit.All in foo">
+    <configuration name="All in foo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="foo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationLogic_test.testRemoveService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="foo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Participation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Participation" />
+      <option name="MAIN_CLASS_NAME" value="Participation.ApplicationLogic_test" />
+      <option name="METHOD_NAME" value="testRemoveService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationLogic_test.testResolve" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="foo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Participation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Participation" />
+      <option name="MAIN_CLASS_NAME" value="Participation.ApplicationLogic_test" />
+      <option name="METHOD_NAME" value="testResolve" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Customer_test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="foo" />
       <extension name="coverage">
@@ -241,7 +333,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Customer_test.testGetCostToPay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Discount_1000_test.testApplicable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="foo" />
       <extension name="coverage">
         <pattern>
@@ -250,62 +342,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Participation" />
-      <option name="MAIN_CLASS_NAME" value="Participation.Customer_test" />
-      <option name="METHOD_NAME" value="testGetCostToPay" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Customer_test.testGetDiscountValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="foo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Participation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Participation" />
-      <option name="MAIN_CLASS_NAME" value="Participation.Customer_test" />
-      <option name="METHOD_NAME" value="testGetDiscountValue" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Customer_test.testGetParticipationGroups" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="foo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Participation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Participation" />
-      <option name="MAIN_CLASS_NAME" value="Participation.Customer_test" />
-      <option name="METHOD_NAME" value="testGetParticipationGroups" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Discount_5pack_test.testApplicable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="foo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Participation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Participation" />
-      <option name="MAIN_CLASS_NAME" value="Participation.Discount_5pack_test" />
+      <option name="MAIN_CLASS_NAME" value="Participation.Discount_1000_test" />
       <option name="METHOD_NAME" value="testApplicable" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Discount_5pack_test.testCalcDiscount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Discount_1000_test.testCalcDiscount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="foo" />
       <extension name="coverage">
         <pattern>
@@ -314,7 +358,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Participation" />
-      <option name="MAIN_CLASS_NAME" value="Participation.Discount_5pack_test" />
+      <option name="MAIN_CLASS_NAME" value="Participation.Discount_1000_test" />
       <option name="METHOD_NAME" value="testCalcDiscount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -323,11 +367,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Discount_5pack_test.testCalcDiscount" />
-        <item itemvalue="JUnit.Discount_5pack_test.testApplicable" />
-        <item itemvalue="JUnit.Customer_test.testGetCostToPay" />
-        <item itemvalue="JUnit.Customer_test.testGetParticipationGroups" />
-        <item itemvalue="JUnit.Customer_test.testGetDiscountValue" />
+        <item itemvalue="JUnit.All in foo" />
+        <item itemvalue="JUnit.ApplicationLogic_test.testResolve" />
+        <item itemvalue="JUnit.ApplicationLogic_test.testRemoveService" />
+        <item itemvalue="JUnit.Discount_1000_test.testCalcDiscount" />
+        <item itemvalue="JUnit.Discount_1000_test.testApplicable" />
       </list>
     </recent_temporary>
   </component>
@@ -345,50 +389,51 @@
       <workItem from="1550622100622" duration="125000" />
       <workItem from="1550622248281" duration="43000" />
       <workItem from="1550623943869" duration="9817000" />
-      <workItem from="1550681854468" duration="3241000" />
+      <workItem from="1550681854468" duration="3451000" />
+      <workItem from="1551465002448" duration="8388000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Customer_test_testGetParticipationGroups - 2019.02.19 at 21h 37m 57s.xml">
-      <configuration name="Customer_test.testGetParticipationGroups" configurationId="JUnit" />
+    <history-entry file="ApplicationLogic_test_testRemoveService - 2019.03.01 at 14h 33m 34s.xml">
+      <configuration name="ApplicationLogic_test.testRemoveService" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Customer_test_testGetParticipationGroups - 2019.02.19 at 21h 39m 09s.xml">
-      <configuration name="Customer_test.testGetParticipationGroups" configurationId="JUnit" />
+    <history-entry file="ApplicationLogic_test_testRemoveService - 2019.03.01 at 14h 35m 01s.xml">
+      <configuration name="ApplicationLogic_test.testRemoveService" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Customer_test - 2019.02.20 at 10h 06m 49s.xml">
-      <configuration name="Customer_test" configurationId="JUnit" />
+    <history-entry file="ApplicationLogic_test_testRemoveService - 2019.03.01 at 14h 38m 05s.xml">
+      <configuration name="ApplicationLogic_test.testRemoveService" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Discount_5pack_test_testApplicable - 2019.02.20 at 15h 41m 07s.xml">
-      <configuration name="Discount_5pack_test.testApplicable" configurationId="JUnit" />
+    <history-entry file="ApplicationLogic_test_testRemoveService - 2019.03.01 at 15h 12m 43s.xml">
+      <configuration name="ApplicationLogic_test.testRemoveService" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Discount_5pack_test_testApplicable - 2019.02.20 at 15h 47m 15s.xml">
-      <configuration name="Discount_5pack_test.testApplicable" configurationId="JUnit" />
+    <history-entry file="ApplicationLogic_test_testResolve - 2019.03.01 at 15h 14m 29s.xml">
+      <configuration name="ApplicationLogic_test.testResolve" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Discount_5pack_test_testApplicable - 2019.02.20 at 15h 49m 37s.xml">
-      <configuration name="Discount_5pack_test.testApplicable" configurationId="JUnit" />
+    <history-entry file="ApplicationLogic_test_testResolve - 2019.03.01 at 15h 14m 58s.xml">
+      <configuration name="ApplicationLogic_test.testResolve" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Discount_5pack_test_testApplicable - 2019.02.20 at 15h 50m 02s.xml">
-      <configuration name="Discount_5pack_test.testApplicable" configurationId="JUnit" />
+    <history-entry file="ApplicationLogic_test_testResolve - 2019.03.01 at 15h 16m 17s.xml">
+      <configuration name="ApplicationLogic_test.testResolve" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Discount_5pack_test_testApplicable - 2019.02.20 at 15h 51m 17s.xml">
-      <configuration name="Discount_5pack_test.testApplicable" configurationId="JUnit" />
+    <history-entry file="ApplicationLogic_test_testResolve - 2019.03.01 at 15h 22m 40s.xml">
+      <configuration name="ApplicationLogic_test.testResolve" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Discount_5pack_test_testApplicable - 2019.02.20 at 15h 52m 30s.xml">
-      <configuration name="Discount_5pack_test.testApplicable" configurationId="JUnit" />
+    <history-entry file="ApplicationLogic_test_testResolve - 2019.03.01 at 15h 25m 06s.xml">
+      <configuration name="ApplicationLogic_test.testResolve" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Discount_5pack_test_testApplicable - 2019.02.20 at 15h 53m 05s.xml">
-      <configuration name="Discount_5pack_test.testApplicable" configurationId="JUnit" />
+    <history-entry file="ApplicationLogic_test_testResolve - 2019.03.01 at 15h 26m 29s.xml">
+      <configuration name="ApplicationLogic_test.testResolve" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13427000" />
+    <option name="totallyTimeSpent" value="22025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26174498" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,8 +442,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39518413" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39518413" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -418,41 +463,8 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Database" order="9" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.2442953" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.2442953" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26174498" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="SciView" order="8" />
-      <window_info anchor="right" id="Database" order="9" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.2442953" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -461,19 +473,67 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>SUT.findCustomer(cID1)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.HashMap</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SUT.findCustomer(cID2)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.HashMap</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SUT.findCustomer(cID!)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.HashMap</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>results.get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.HashMap</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>results.keySet()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.HashMap</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((HashMap) results).keySet</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.HashMap</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>results.get(SUT.findCustomer(sID1))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SUT.findCustomer(sID1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>results.get(SUT.findCustomer(1))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docs/allclasses-frame.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/help-doc.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Participation/ApplicationLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-174">
-          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Participation/Persistence.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -482,13 +542,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mytest/Participation/ApplicationLogic_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -522,7 +575,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Participation/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
+        <state relative-caret-position="-214">
           <caret line="95" column="51" selection-start-line="95" selection-start-column="51" selection-end-line="95" selection-end-column="51" />
           <folding>
             <element signature="e#2294#2315#0" expanded="true" />
@@ -530,10 +583,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mytest/Participation/Customer_test.java">
+    <entry file="file://$PROJECT_DIR$/mytest/Participation/Discount_5pack_test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="96" column="19" lean-forward="true" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
+        <state relative-caret-position="187">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -542,38 +595,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Participation/Discount_1000.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="-182">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mytest/Participation/Discount_1000_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Participation/Discount_5pack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
-          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+          <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
           <folding>
             <element signature="e#628#629#0" expanded="true" />
             <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#1343#1344#0" expanded="true" />
-            <element signature="e#1368#1369#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mytest/Participation/Discount_5pack_test.java">
+    <entry file="file://$PROJECT_DIR$/mytest/Participation/Discount_1000_test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+        <state relative-caret-position="-12">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Participation/ApplicationLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="450" column="42" selection-start-line="450" selection-start-column="33" selection-end-line="450" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mytest/Participation/Customer_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mytest/Participation/ApplicationLogic_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
